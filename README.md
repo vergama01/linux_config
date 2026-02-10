@@ -4,4 +4,4 @@
 
 #### noctalia作为通知、锁屏、壁纸等管理器
 
-#### 字体无衬线使用HarmonyOS Sans，等宽字体使用JetBrains Mono
+#### 字体使用HarmonyOS Sans,JetBrains Mono,Source Han Serif
